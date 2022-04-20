@@ -25,9 +25,9 @@ PLAY ONLY ON FRESH SUPERFLAT YOU ARE FINE WITH HIROSHIMA NAGASAKI IN SPLIT SECON
 ░░░▒▒░░░▒▒░░░▒▒░░░▒▒░░░░░▒▒░░░▒▒░░░▒▒░░░▒▒░░
 TAKE THIS WARNING SERIOUSLY, THAT AINT TOYS!
  
-░░░▒▒░░░▒▒░░░▒▒░░░▒▒░░
-☠█ Silverainox#9452 █☠
-░░░▒▒░░░▒▒░░░▒▒░░░▒▒░░
+░░░▒▒░░░▒▒░░░▒▒░░
+ Silverainox#9452
+░░░▒▒░░░▒▒░░░▒▒░░
  
 Make sure to leave me some feedback on Discord or star on Git ;)
 github.com/serainox420/Minehattan-Project/
