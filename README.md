@@ -12,16 +12,12 @@ Log onto single creative, you will see echest icon in bottom left corner.
 Have fun with weapons of mass destruction.
 
 ## Disclaimer
-
-**I GIVE ZERO FUCKS IF YOU OBLITERATE WHOLE KNOWN UNIVERSE WITH THEM
-PLAY ONLY ON FRESH SUPERFLAT YOU ARE FINE WITH HIROSHIMA NAGASAKI IN SPLIT SECOND ANYTIME**
-TAKE THIS WARNING SERIOUSLY, THAT AINT TOYS!
+ - censored lol -
  
 ## Credits
 
 Created by [Serainox](github.com/serainox420) (Silverainox#9452 on [Discord](discord.com))
 
- 
 Make sure to leave me some feedback on Discord or star on Git ;)
 github.com/serainox420/Minehattan-Project/
 
